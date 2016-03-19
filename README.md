@@ -1,1 +1,3 @@
-# documentation
+# Документация
+
+- [Методы API](api.md)
